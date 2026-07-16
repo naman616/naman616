@@ -1,0 +1,56 @@
+name: Update profile terminal
+
+on:
+  schedule:
+    # Runs once a day at 00:00 UTC
+    - cron: "0 0 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Configure git identity for cloning
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Rebuild ASCII SVGs (in case ascii_art.txt changed)
+        run: python scripts/build_ascii_svg.py
+
+      - name: Run update script
+        env:
+          GITHUB_USERNAME: naman616
+          # A classic PAT with `repo` + `read:user` scope, stored as a secret.
+          # The default GITHUB_TOKEN cannot read contributionsCollection or
+          # clone private repos, so a PAT is required here.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+        run: python scripts/update_stats.py
+
+      - name: Commit changes
+        run: |
+          git add README.md cache/loc_cache.json assets/ascii_art_dark.svg assets/ascii_art_light.svg
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "chore: auto-update profile stats"
+            git push
+          fi
