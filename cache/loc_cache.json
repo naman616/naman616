@@ -1,1 +1,117 @@
-{}
+{
+  "naman616/brain_disease_classification_MRI": {
+    "last_sha": "3247bc1ba9a5ea58d739baffa9d610d2b7466f94",
+    "additions": 13500,
+    "deletions": 0
+  },
+  "naman616/Cafeteria-Food-ordering-system": {
+    "last_sha": "8925772fe697309f60ca1b388853c8c87d73a0d9",
+    "additions": 0,
+    "deletions": 0
+  },
+  "naman616/collision-of-bodies-": {
+    "last_sha": "54e8cf25bff4bf5bf51769c2083a5136b4c09716",
+    "additions": 163,
+    "deletions": 2
+  },
+  "naman616/credit_risk_scoring_": {
+    "last_sha": "67b922167a065a24906608f046d61915697e2b5e",
+    "additions": 31464,
+    "deletions": 0
+  },
+  "naman616/Emergency_Response_Ambulance_Routing": {
+    "last_sha": "671b80839a9948621278c69b0638d08114d628be",
+    "additions": 5585,
+    "deletions": 0
+  },
+  "naman616/football-predictor": {
+    "last_sha": "4a318a64efa2f6fe75ba78014f62937db25c4465",
+    "additions": 56821,
+    "deletions": 82
+  },
+  "naman616/hack-quiz": {
+    "last_sha": "HEAD",
+    "additions": 0,
+    "deletions": 0
+  },
+  "naman616/hack_quiz": {
+    "last_sha": "4281fd8e351aca1f2e15d2d9e5e47e417f512d3e",
+    "additions": 8535,
+    "deletions": 14
+  },
+  "naman616/Investo-form-using-bolt": {
+    "last_sha": "d74177c0850eea4907a03d3540f37d05ce2009b9",
+    "additions": 5014,
+    "deletions": 0
+  },
+  "naman616/investo-tax-solutions": {
+    "last_sha": "f48a70ccc4451b621d2d3058509e88684e120ee0",
+    "additions": 9881,
+    "deletions": 4873
+  },
+  "naman616/jules": {
+    "last_sha": "42d1b7bfad844d5e9de45c8fcb3306874382359a",
+    "additions": 0,
+    "deletions": 0
+  },
+  "naman616/jules_rb_sales_counter": {
+    "last_sha": "0182c1d2f03487aa06a54d301e51199e6ac3f403",
+    "additions": 0,
+    "deletions": 0
+  },
+  "naman616/life-lens-app-43": {
+    "last_sha": "bc6e2d99a1f000cedb481e342d76028ba5e26787",
+    "additions": 0,
+    "deletions": 0
+  },
+  "naman616/mumbai-realestate-ml": {
+    "last_sha": "1aac563168db2dfd78fb5ed320bda4fa90526bf1",
+    "additions": 40495,
+    "deletions": 6032
+  },
+  "naman616/naman616": {
+    "last_sha": "e556aada1578e20d3a5306d6a25d3bec87167936",
+    "additions": 989,
+    "deletions": 7
+  },
+  "naman616/nifty": {
+    "last_sha": "c22792e84099de69f7536deee6b1f39cff8bc072",
+    "additions": 7088,
+    "deletions": 716
+  },
+  "naman616/pmis-2.0-main": {
+    "last_sha": "4ef8f04cc895e4d7dca4dfe4586e25f71574049e",
+    "additions": 206602,
+    "deletions": 0
+  },
+  "naman616/Quiz-Leaderboard-Project": {
+    "last_sha": "7243d73203451096a99a22cde4da726a59122a13",
+    "additions": 60,
+    "deletions": 0
+  },
+  "naman616/react_learning": {
+    "last_sha": "ba49b363d336a0fec517cbb11e0f8976451964df",
+    "additions": 15408,
+    "deletions": 95
+  },
+  "naman616/redbull_stock_counter": {
+    "last_sha": "0993352304d0e83349ed26b5d55d465a022a7241",
+    "additions": 1156967,
+    "deletions": 222766
+  },
+  "naman616/spell_checker": {
+    "last_sha": "5438b963cb1345f91887396c3f2f3c63f1718bc0",
+    "additions": 294,
+    "deletions": 1
+  },
+  "naman616/trial_atraya": {
+    "last_sha": "5001868943f24a0ed26c6f076af0de13952a1879",
+    "additions": 2,
+    "deletions": 0
+  },
+  "naman616/WORDLE": {
+    "last_sha": "96a7a0c7c4b3e5d96a68016ce2d283d7794cb884",
+    "additions": 13212,
+    "deletions": 0
+  }
+}
