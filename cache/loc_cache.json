@@ -70,14 +70,14 @@
     "deletions": 6032
   },
   "naman616/naman616": {
-    "last_sha": "e556aada1578e20d3a5306d6a25d3bec87167936",
+    "last_sha": "b1d6ecc35daf21999790b3854abe3cf4367b6781",
     "additions": 989,
     "deletions": 7
   },
   "naman616/nifty": {
-    "last_sha": "c22792e84099de69f7536deee6b1f39cff8bc072",
-    "additions": 7088,
-    "deletions": 716
+    "last_sha": "8c565df2889aacf4fc161c6808048be1ed96db31",
+    "additions": 7100,
+    "deletions": 737
   },
   "naman616/pmis-2.0-main": {
     "last_sha": "4ef8f04cc895e4d7dca4dfe4586e25f71574049e",
@@ -113,5 +113,10 @@
     "last_sha": "96a7a0c7c4b3e5d96a68016ce2d283d7794cb884",
     "additions": 13212,
     "deletions": 0
+  },
+  "naman616/lyf": {
+    "last_sha": "4dfd7f1b3530349ef3a1843c5509f800dfdded3f",
+    "additions": 8,
+    "deletions": 4
   }
 }
