@@ -70,7 +70,7 @@
     "deletions": 6032
   },
   "naman616/naman616": {
-    "last_sha": "784dee87d14ec4fbc0a95541cec840b807a8e0a9",
+    "last_sha": "a741dea527d90032470e2827d22bca7171b062df",
     "additions": 989,
     "deletions": 7
   },
@@ -118,5 +118,10 @@
     "last_sha": "adccbac79fbd6c1e04b91b69e1557cc4d99749dd",
     "additions": 10,
     "deletions": 6
+  },
+  "naman616/investo_messaging": {
+    "last_sha": "747d08cfcc8760cfa4976f559e67fc180d60f6c3",
+    "additions": 1940,
+    "deletions": 0
   }
 }
