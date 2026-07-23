@@ -11,7 +11,7 @@
 <td valign="middle">
 
 ```text
-<!--START_SECTION:terminal-->
+
 naman@lodha
 -----------
 OS: ... macOS, Linux, Windows, iOS, Android
@@ -37,7 +37,7 @@ Followers: .............................. 8
 Stars: .................................. 5
 Commits: .............................. 193
 Lines of Code: .................. 1,339,398
-<!--END_SECTION:terminal-->
+
 ```
 
 </td>
