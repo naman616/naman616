@@ -70,7 +70,7 @@
     "deletions": 6032
   },
   "naman616/naman616": {
-    "last_sha": "135e474d733f208f7422b6c9f4c3a6e2732d66f5",
+    "last_sha": "6c8d174ff7bd4f69b669b9fbcec0af48a42a0c5b",
     "additions": 995,
     "deletions": 13
   },
@@ -128,5 +128,10 @@
     "last_sha": "15bdc9e763f8f8eaf2e117b4bf53260c438d6c53",
     "additions": 1783,
     "deletions": 36
+  },
+  "naman616/leadcat": {
+    "last_sha": "b41440ac4a42b1f7508020cee1f804e6ebbc99ab",
+    "additions": 76,
+    "deletions": 2
   }
 }
