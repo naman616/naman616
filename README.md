@@ -15,7 +15,7 @@
 naman@lodha
 -----------
 OS: ... macOS, Linux, Windows, iOS, Android
-Uptime: ....... 19 years, 10 months, 0 days
+Uptime: ........ 19 years, 10 months, 1 day
 Host: ......................... Naman Lodha
 Kernel: .. CAM (Computer Aided Manufacturing) Operator
 IDE: ... IntelliJ IDEA, VSCode, Antigravity
@@ -31,12 +31,12 @@ LinkedIn: ..................... Naman Lodha
 LeetCode: ......................... namanld
 
 - GitHub Stats -
-Repos: ................................. 36
+Repos: ................................. 37
 Contributed: ........................... 26
 Followers: .............................. 9
 Stars: .................................. 7
-Commits: .............................. 235
-Lines of Code: .................. 1,360,366
+Commits: .............................. 255
+Lines of Code: .................. 1,364,580
 <!--END_SECTION:terminal-->
 ```
 
