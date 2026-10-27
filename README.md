@@ -15,7 +15,7 @@
 naman@lodha
 -----------
 OS: ... macOS, Linux, Windows, iOS, Android
-Uptime: ................... 20 years, 1 day
+Uptime: .................. 20 years, 2 days
 Host: ......................... Naman Lodha
 Kernel: .. CAM (Computer Aided Manufacturing) Operator
 IDE: ... IntelliJ IDEA, VSCode, Antigravity
